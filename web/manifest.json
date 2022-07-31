@@ -1,0 +1,23 @@
+{
+  "name": "Coffee Masters",
+  "short_name": "Coffee Masters",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#795548",
+  "theme_color": "#795548",
+  "description": "Order coffee from an online coffee store",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "icons/Icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/Icon-1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ]
+}
